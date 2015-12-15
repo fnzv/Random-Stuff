@@ -1,0 +1,6 @@
+Citadel or Zeus - inurl:"cp.php?m=login"
+ICE IX - inurl:"adm/index.php?m=login"
+SpyEye inurl:"/frmcp/"
+iStealer - inurl:"/index.php?action=logs" intitle:"login"
+Beta Bot - inurl:"login.php" intext:"myNews Content Manager"
+VertexNET - intitle:"VertexNet v1.1"+intext:"Username :"
